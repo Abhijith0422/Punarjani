@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1023874035127",
+    "project_id": "punarjani-41317",
+    "storage_bucket": "punarjani-41317.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023874035127:android:68ccf7d9fe3f64fc79cc32",
+        "android_client_info": {
+          "package_name": "com.example.hack_a_addictr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023874035127-8lcn4htk8scuuf9avmmcq7prg7vr1et8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hack_a_addictr",
+            "certificate_hash": "d4b893dcf94465ee9128222282fd220e0567c616"
+          }
+        },
+        {
+          "client_id": "1023874035127-dba6es9lhluj1ipaa2la19dsk8hk9tbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCLMA00x4HpFRTQF-vxP0-4Fp6kgNc1Fw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023874035127-dba6es9lhluj1ipaa2la19dsk8hk9tbo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
